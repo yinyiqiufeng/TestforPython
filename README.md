@@ -1,3 +1,3 @@
 # TestforPython
-testWord=['h','e','l','l','o']
+testWord=['h','e','l','l','o']  
 print(testWord)
